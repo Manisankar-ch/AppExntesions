@@ -2,7 +2,7 @@
 //  AppWidget.swift
 //  AppWidget
 //
-//  Created by Softsuave-iOS dev on 24/01/25.
+//  Created by Mani on 24/01/25.
 //
 
 import WidgetKit
